@@ -14,6 +14,14 @@ Crear un modelo de machine learning de clasifiación que obtenga un score ROC-AU
 - Light Gradient Boosting Machine (Light GBM)
 - XGBoost
 
+## Librerías principales utilizadas
+- pandas
+- matplotlib
+- seaborn
+- numpy
+- sklearn
+- imblearn
+
 ## Resultados
 - Se logró un score **ROC-AUC de 0.89** con el modelo Light GBM, **19% mejor** que el mínimo solicitado.
 - Se identificaron las características más relevantes para la predicción de la cancelación de contratos.
