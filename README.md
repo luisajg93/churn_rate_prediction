@@ -15,7 +15,7 @@ Crear un modelo de machine learning de clasifiación que obtenga un score ROC-AU
 - XGBoost
 
 ## Resultados
-- Se logró un score ROC-AUC de 0.89 con el modelo Light GBM
+- Se logró un score **ROC-AUC de 0.89** con el modelo Light GBM, **19% mejor** que el mínimo solicitado.
 - Se identificaron las características más relevantes para la predicción de la cancelación de contratos.
 - En el archivo de informe_final se pueden observar los resultados completos.
 - En el archivo de código se puede observar el dasarrollo completo del proyecto, desde el análisis exploratorio hasta el entrenamiento de los modelos de machine learning.
